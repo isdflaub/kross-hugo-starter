@@ -1,7 +1,6 @@
 +++
 date = 2021-02-07T23:00:00Z
 description = "une superbe image"
-draft = true
 image = "/images/portfolio/item-2.png"
 title = "Dernier article de blog"
 
