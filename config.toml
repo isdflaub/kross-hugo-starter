@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+theme = "anatole"
+title = "Anatole test"
 [[menu.main]]
 URL = "about"
 name = "About"
