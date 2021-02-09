@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "anatole"
-title = "Anatole test"
+theme = "kross-hugo"
+title = "Titre du site"
 [[menu.main]]
 URL = "about"
 name = "About"
