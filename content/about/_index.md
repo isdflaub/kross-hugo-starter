@@ -4,6 +4,11 @@ date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
 author_image: images/about/author.jpg
 author_signature: images/about/signature.png
+menu:
+  main:
+    URL: about
+    name: A propos
+    weight: 2
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
