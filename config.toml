@@ -4,21 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Titre du site"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Alexandre P"
