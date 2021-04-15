@@ -4,17 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Titre du site"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Alexandre P"
@@ -28,7 +32,7 @@ phone = "042141414141"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "https://getform.io/f/1a976e94-39fd-4bfe-9003-d2c9f0ff304a"
+form_action = "https://getform.io/f/fe4a78b9-15a7-40b0-9b1e-d33a7b1f8800"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
